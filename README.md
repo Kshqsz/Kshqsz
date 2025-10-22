@@ -28,25 +28,19 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+👋 **Hi, I'm Kshqsz!** A passionate AI researcher focusing on Natural Language Processing and Large Language Models.
 
-### 👋 Hi, I'm Kshqsz!
+### 🎓 Education & Affiliation
+- 🏫 **苏州大学 (Soochow University)**
+- 💡 **OpenNLG Research Group** - Natural Language Generation Research
 
-📍 **苏州大学 (Soochow University)** · 💡 **OpenNLG Research Group**
+### 🔬 Research Focus
+🎯 **Natural Language Generation (NLG)** · **Large Language Models (LLM)** · **AI Research**
 
-🎯 **Research Focus:** Natural Language Generation & Large Language Models
+### 🌟 Interests & Skills
+**🤖 Natural Language Processing** · **🧠 Machine Learning & Deep Learning** · **📚 AI Research & Innovation** · **💻 Software Development**
 
-<br/>
-
-🌟 **My Interests**
-
-🤖 Natural Language Processing | 🧠 Machine Learning & Deep Learning | 📚 AI Research & Innovation | 💻 Software Development
-
-<br/>
-
-> *"Thanks for dropping by! Let's connect and build something amazing together!"*
-
-</div>
+---
 
 <div align="center">
 
