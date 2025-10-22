@@ -3,16 +3,19 @@
 <!-- 打字机效果标题 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B+I'm+Kshqsz;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-<!-- 苏州大学校徽和 OpenNLG Logo -->
-<p>
-  <img src="./assets/suda_logo.png" alt="苏州大学" width="120" />
-  <img src="./assets/openNLG_logo.jpg" alt="OpenNLG" width="120" />
-</p>
+<br/>
+
+<!-- 机构信息 -->
+<h2>🎓 苏州大学 (Soochow University)</h2>
+<h3>🔬 OpenNLG Research Group</h3>
+
+<br/>
 
 <!-- 徽章组 -->
 <p>
   <img src="https://img.shields.io/badge/🎓_苏州大学-Soochow_University-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🔬_OpenNLG-Research_Group-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-NLG_&_LLM-orange?style=for-the-badge" />
 </p>
 
 <!-- 个人简介 -->
@@ -89,17 +92,25 @@ me.say_hi()
 
 </div>
 
-## 🎯 Current Projects
+## 🎯 Current Focus
 
 <div align="center">
 
-| 项目 | 描述 | 技术栈 |
+| 领域 | 描述 | 技术栈 |
 |------|------|--------|
-| 🤖 Machine Learning Lab | 机器学习算法实现与学习 | Python, NumPy, Scikit-learn |
-| � OpenNLG Research | 自然语言生成研究 | PyTorch, Transformers |
+| 🤖 **Machine Learning** | 机器学习算法实现与研究 | Python, NumPy, Scikit-learn |
+| 📚 **NLG Research** | 自然语言生成研究 (OpenNLG) | PyTorch, Transformers, HuggingFace |
+| 🧠 **LLM Development** | 大语言模型研究与应用 | GPT, BERT, Fine-tuning |
 
 </div>
 
+## 📊 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Kshqsz/Kshqsz/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ## 🌐 Connect with Me
 
@@ -114,12 +125,16 @@ me.say_hi()
 
 <div align="center">
 
-### 📈 Profile Views
+### � Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### �📈 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Kshqsz&color=blueviolet&style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
-**Made with ❤️ by Kshqsz**
+**✨ Made with ❤️ by Kshqsz | 苏州大学 OpenNLG 研究组 ✨**
 
 </div>
