@@ -23,13 +23,13 @@
 👋 **Hi, I'm Shoukun Han!** A passionate AI researcher focusing on Natural Language Processing and Large Language Models.
 
 ### 🎓 Education & Affiliation
-🏫 **苏州大学 (Soochow University)** | 💡 **OpenNLG Research Group**
+🏫 **苏州大学 (Soochow University)** | **OpenNLG Research Group**
 
 ### 🔬 Research Focus
 🎯 Natural Language Generation (NLG) · Large Language Models (LLM) · AI Research
 
 ### 🌟 Interests & Skills
-🤖 Natural Language Processing · 🧠 Machine Learning & Deep Learning · 📚 AI Research & Innovation
+🧠 Natural Language Processing · Machine Learning & Deep Learning · AI Research & Innovation
 
 ---
 
@@ -42,6 +42,27 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kshqsz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshqsz&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
 
 **✨ Made with ❤️ by Shoukun Han | 苏州大学 OpenNLG 研究组 ✨**
 
