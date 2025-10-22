@@ -6,7 +6,7 @@
 <!-- 苏州大学校徽和 OpenNLG Logo -->
 <p>
   <img src="./assets/suda_logo.png" alt="苏州大学" width="120" />
-  <img src="./assets/opennlg_logo.jpg" alt="OpenNLG" width="120" />
+  <img src="./assets/openNLG_logo.jpg" alt="OpenNLG" width="120" />
 </p>
 
 <!-- 徽章组 -->
@@ -100,13 +100,6 @@ me.say_hi()
 
 </div>
 
-## 📊 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Kshqsz/Kshqsz/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ## 🌐 Connect with Me
 
@@ -120,10 +113,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-### � Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 📈 Profile Views
 
