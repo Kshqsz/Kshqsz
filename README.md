@@ -36,11 +36,13 @@
 
 🎯 **Research Focus:** Natural Language Generation & Large Language Models
 
-🌟 **Interests:**
-- 🤖 Natural Language Processing
-- 🧠 Machine Learning & Deep Learning
-- 📚 AI Research & Innovation
-- 💻 Software Development
+<br/>
+
+🌟 **My Interests**
+
+🤖 Natural Language Processing | 🧠 Machine Learning & Deep Learning | 📚 AI Research & Innovation | 💻 Software Development
+
+<br/>
 
 > *"Thanks for dropping by! Let's connect and build something amazing together!"*
 
@@ -56,39 +58,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshqsz&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-<!-- GitHub 贡献图 -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kshqsz&theme=tokyo-night&hide_border=true" />
-
-<!-- GitHub 连续贡献 -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kshqsz&theme=tokyonight&hide_border=true" />
-</p>
-
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI/ML Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -100,29 +69,6 @@
 | 🧠 **LLM Development** | 大语言模型研究与应用 | GPT, BERT, Fine-tuning |
 
 </div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kshqsz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Kshqsz&color=blueviolet&style=for-the-badge)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 **✨ Made with ❤️ by Kshqsz | 苏州大学 OpenNLG 研究组 ✨**
 
