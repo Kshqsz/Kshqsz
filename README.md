@@ -7,8 +7,8 @@
 <br/>
 
 <!-- 机构信息 -->
-<h2>🎓 苏州大学 (Soochow University)</h2>
-<h3>💡 OpenNLG Research Group</h3>
+<h2><a href="https://www.suda.edu.cn/" target="_blank">🎓 苏州大学 (Soochow University)</a></h2>
+<h3><a href="https://opennlg.cn/#/index" target="_blank">💡 OpenNLG Research Group</a></h3>
 
 <!-- 个人简介 -->
 <p>🚀 AI Researcher | NLP Enthusiast | Machine Learning Practitioner</p>
