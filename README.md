@@ -29,7 +29,7 @@
 🎯 Natural Language Generation (NLG) · Large Language Models (LLM) · AI Research
 
 ### 🌟 Interests & Skills
-🤖 Natural Language Processing · 🧠 Machine Learning & Deep Learning · 📚 AI Research & Innovation · 💻 Software Development
+🤖 Natural Language Processing · 🧠 Machine Learning & Deep Learning · 📚 AI Research & Innovation
 
 ---
 
@@ -43,18 +43,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshqsz&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-## 🎯 Current Focus
-
-<div align="center">
-
-| 领域 | 描述 | 技术栈 |
-|------|------|--------|
-| 🤖 **Machine Learning** | 机器学习算法实现与研究 | Python, NumPy, Scikit-learn |
-| 📚 **NLG Research** | 自然语言生成研究 (OpenNLG) | PyTorch, Transformers, HuggingFace |
-| 🧠 **LLM Development** | 大语言模型研究与应用 | GPT, BERT, Fine-tuning |
-
-</div>
-
-**✨ Made with ❤️ by Kshqsz | 苏州大学 OpenNLG 研究组 ✨**
+**✨ Made with ❤️ by Shoukun Han | 苏州大学 OpenNLG 研究组 ✨**
 
 </div>
