@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 打字机效果标题 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there+👋+I'm+Shoukun+Han;Welcome+to+my+GitHub+Profile!;AI+Researcher+@+Soochow+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there,+I'm+Shoukun+Han;Welcome+to+my+GitHub+Profile!;AI+Researcher+at+Soochow+University" alt="Typing SVG" />
 
 <br/>
 
