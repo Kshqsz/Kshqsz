@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 打字机效果标题 -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B+I'm+Kshqsz;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there+%F0%9F%91%8B+I'm+Shoukun Han;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-👋 **Hi, I'm Kshqsz!** A passionate AI researcher focusing on Natural Language Processing and Large Language Models.
+👋 **Hi, I'm Shoukun Han!** A passionate AI researcher focusing on Natural Language Processing and Large Language Models.
 
 ### 🎓 Education & Affiliation
 - 🏫 **苏州大学 (Soochow University)**
