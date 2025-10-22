@@ -7,14 +7,14 @@
 
 <!-- 机构信息 -->
 <h2>🎓 苏州大学 (Soochow University)</h2>
-<h3>🔬 OpenNLG Research Group</h3>
+<h3>💡 OpenNLG Research Group</h3>
 
 <br/>
 
 <!-- 徽章组 -->
 <p>
   <img src="https://img.shields.io/badge/🎓_苏州大学-Soochow_University-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬_OpenNLG-Research_Group-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💡_OpenNLG-Research_Group-ff69b4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-NLG_&_LLM-orange?style=for-the-badge" />
 </p>
 
@@ -28,26 +28,23 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Kshqsz:
-    def __init__(self):
-        self.name = "Kshqsz"
-        self.university = "苏州大学 (Soochow University)"
-        self.research_group = "OpenNLG"
-        self.interests = [
-            "Natural Language Processing",
-            "Machine Learning",
-            "Deep Learning",
-            "AI Research"
-        ]
-        self.current_focus = "NLG & LLM Research"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's connect and build something amazing together!")
+<div align="center">
 
-me = Kshqsz()
-me.say_hi()
-```
+### 👋 Hi, I'm Kshqsz!
+
+📍 **苏州大学 (Soochow University)** · 💡 **OpenNLG Research Group**
+
+🎯 **Research Focus:** Natural Language Generation & Large Language Models
+
+🌟 **Interests:**
+- 🤖 Natural Language Processing
+- 🧠 Machine Learning & Deep Learning
+- 📚 AI Research & Innovation
+- 💻 Software Development
+
+> *"Thanks for dropping by! Let's connect and build something amazing together!"*
+
+</div>
 
 <div align="center">
 
@@ -104,14 +101,6 @@ me.say_hi()
 
 </div>
 
-## 📊 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Kshqsz/Kshqsz/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -125,11 +114,11 @@ me.say_hi()
 
 <div align="center">
 
-### � Random Dev Quote
+### 💡 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### �📈 Profile Views
+### 📈 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=Kshqsz&color=blueviolet&style=for-the-badge)
 
