@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-👋 **Hi, I'm Shoukun Han(韩守坤)!** A passionate AI researcher focusing on Natural Language Processing and Large Language Models.
+👋 **Hi, I'm Shoukun Han!** A passionate AI researcher focusing on Natural Language Processing and Large Language Models.
 
 ### 🎓 Education & Affiliation
 
