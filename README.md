@@ -75,6 +75,6 @@
 
 <div align="center">
 
-**✨ Made with ❤️ by Shoukun Han | Soochow University OpenNLG 研究组 ✨**
+**✨ Made with ❤️ by Shoukun Han | Soochow University OpenNLG Group ✨**
 
 </div>
