@@ -9,7 +9,7 @@
 
 <!-- 机构信息 -->
 
-<h2><a href="https://www.suda.edu.cn/" target="_blank">🎓 苏州大学 (Soochow University)</a></h2>
+<h2><a href="https://www.suda.edu.cn/" target="_blank">🎓 Soochow University</a></h2>
 <h3><a href="https://opennlg.cn/#/index" target="_blank">💡 OpenNLG Research Group</a></h3>
 
 <!-- 个人简介 -->
@@ -28,7 +28,7 @@
 
 ### 🎓 Education & Affiliation
 
-🏫 **苏州大学 (Soochow University)** | **OpenNLG Research Group**
+🏫 **Soochow University** | **OpenNLG Research Group**
 
 ### 🔬 Research Focus
 
@@ -75,6 +75,6 @@
 
 <div align="center">
 
-**✨ Made with ❤️ by Shoukun Han | 苏州大学 OpenNLG 研究组 ✨**
+**✨ Made with ❤️ by Shoukun Han | Soochow University OpenNLG 研究组 ✨**
 
 </div>
