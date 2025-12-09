@@ -64,7 +64,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -75,7 +74,7 @@
 
 <div align="center">
 
-For more information, please visit my [**Homepage**](https://kshqsz.github.io/).
+**For more information, please visit my [Homepage](https://kshqsz.github.io/).**
 
 **✨ Made with ❤️ by Shoukun Han | Soochow University OpenNLG Group ✨**
 
