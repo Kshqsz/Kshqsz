@@ -75,6 +75,8 @@
 
 <div align="center">
 
+For more information, please visit my [**Homepage**](https://kshqsz.github.io/).
+
 **✨ Made with ❤️ by Shoukun Han | Soochow University OpenNLG Group ✨**
 
 </div>
