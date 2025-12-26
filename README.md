@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there,+I'm+Shoukun+Han;Welcome+to+my+GitHub+Profile!;AI+Researcher+at+Soochow+University" alt="Typing SVG" />
 
 <br/>
-<br/>
 
 <!-- 机构信息 -->
 
@@ -37,6 +36,10 @@
 ### 🌟 Interests & Skills
 
 🧠 Natural Language Processing · Machine Learning & Deep Learning · AI Research & Innovation
+
+---
+
+**For more information, please visit my [Homepage](https://kshqsz.github.io/).**
 
 ---
 
@@ -73,8 +76,6 @@
 ---
 
 <div align="center">
-
-**For more information, please visit my [Homepage](https://kshqsz.github.io/).**
 
 **✨ Made with ❤️ by Shoukun Han | Soochow University OpenNLG Group ✨**
 
