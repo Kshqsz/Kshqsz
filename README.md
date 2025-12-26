@@ -37,9 +37,15 @@
 
 🧠 Natural Language Processing · Machine Learning & Deep Learning · AI Research & Innovation
 
-<br/>
+---
+
+<div align="center">
+
 **For more information, please visit my [Homepage](https://kshqsz.github.io/).**
 
+</div>
+
+---
 
 <div align="center">
 
